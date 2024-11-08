@@ -1,6 +1,7 @@
-
 export default function Home() {
   return (
-    <h1>Hello world</h1>
+    <div className="flex w-screen items-center justify-center">
+      <h1 className="text-red-500">Hello world</h1>
+    </div>
   );
 }
