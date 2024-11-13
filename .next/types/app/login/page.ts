@@ -1,4 +1,4 @@
-// File: C:\Users\Sergio\Desktop\IgniteLab\Projetos\capital-control-ai\app\login\page.tsx
+// File: C:\Users\sergi\OneDrive\Documentos\Projetos\finix-ai\app\login\page.tsx
 import * as entry from '../../../../app/login/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
